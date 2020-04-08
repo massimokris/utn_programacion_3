@@ -1,0 +1,12 @@
+{
+    "name": "massimo/tp1",
+    "authors": [
+        {
+            "name": "Massimo",
+            "email": "maxdo1996@gmail.com"
+        }
+    ],
+    "require": {
+        "namnv609/php-rest-countries": "^1.0"
+    }
+}
