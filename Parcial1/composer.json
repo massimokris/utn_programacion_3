@@ -1,0 +1,13 @@
+{
+    "name": "mdiberardino/parcial1",
+    "description": "parcial",
+    "authors": [
+        {
+            "name": "mdiberardino",
+            "email": "mdiberardino@baufest.com"
+        }
+    ],
+    "require": {
+        "firebase/php-jwt": "^5.2"
+    }
+}
